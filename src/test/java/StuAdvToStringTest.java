@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class StuAdvToString {
+public class StuAdvToStringTest {
     
     @DisplayName("toString Test 01")
     @Test
