@@ -1,6 +1,8 @@
 public abstract class Ticket {
     private int serialNumber;   // "unique" ticket id number
 
+    public static void main(String[] args){}
+    
     public Ticket() 
     {serialNumber = getNextSerialNumber();}
 
