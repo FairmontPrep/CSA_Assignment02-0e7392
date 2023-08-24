@@ -15,6 +15,8 @@ public class Bus {
     private int currentStop;
     private int currentDirection;
 
+    public static void main(String[] args){}
+    
     /* COMPLETE THIS CONSTRUCTOR
      * Your constructor should initialize all of your private local
      * variables. n is the number of stops this bus has on its route.
