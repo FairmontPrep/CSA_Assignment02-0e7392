@@ -10,6 +10,8 @@
  * a student ID is required for this ticket.
  */
 public class StudentAdvance extends Advance {
+
+    public static void main(String[] args){}
     
     /* COMPLETE THIS CONSTRUCTOR
      * This constructor takes the parameter days and will initialize
