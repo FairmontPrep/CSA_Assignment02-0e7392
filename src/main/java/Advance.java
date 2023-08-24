@@ -10,6 +10,8 @@
  */
 
 public class Advance extends Ticket {
+    public static void main(String[] args){}
+    
     private int days;
 
     /* COMPLETE THIS CONSTRUCTOR
